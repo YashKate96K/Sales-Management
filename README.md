@@ -1,15 +1,15 @@
-# 📊 Sales Data Analysis & Executive Insights
+#  Sales Data Analysis & Executive Insights
 
 A comprehensive exploratory data analysis (EDA) project evaluating annual e-commerce sales performance across seasonality, geographic markets, advertisement timing, product affinity, and price elasticity[cite: 1, 2].
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project consolidates 12 individual monthly sales datasets into a centralized data pipeline to uncover key revenue drivers, customer purchasing patterns, and actionable business strategies[cite: 1, 2].
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 ### 1. Best Month for Sales (Seasonality)
 - **Top Month:** **December** was the highest-grossing month, generating **~$4.61M** in revenue with **28,114** items sold[cite: 1, 2].
@@ -47,7 +47,7 @@ This project consolidates 12 individual monthly sales datasets into a centralize
 
 ---
 
-## 🛠️ Data Pipeline & Workflow
+##  Data Pipeline & Workflow
 
 1. **Ingestion & Merging:**
    - Consolidated 12 monthly CSV files from `./Sales_Data` into a single dataset (`all_data.csv`)[cite: 1, 2].
@@ -65,14 +65,14 @@ This project consolidates 12 individual monthly sales datasets into a centralize
 
 ---
 
-## 📦 Requirements
+##  Requirements
 - Python 3.7+[cite: 1, 2]
 - `pandas`[cite: 1, 2]
 - `matplotlib`[cite: 1, 2]
 
 ---
 
-## 💻 Installation & Usage
+##  Installation & Usage
 
 ```bash
 # 1. Clone repository
